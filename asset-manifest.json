@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rabureta/static/css/main.c5fe3d24.css",
+    "main.js": "/rabureta/static/js/main.8492263b.js",
+    "static/js/976.6ccac490.chunk.js": "/rabureta/static/js/976.6ccac490.chunk.js",
+    "index.html": "/rabureta/index.html",
+    "main.c5fe3d24.css.map": "/rabureta/static/css/main.c5fe3d24.css.map",
+    "main.8492263b.js.map": "/rabureta/static/js/main.8492263b.js.map",
+    "976.6ccac490.chunk.js.map": "/rabureta/static/js/976.6ccac490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5fe3d24.css",
+    "static/js/main.8492263b.js"
+  ]
+}
