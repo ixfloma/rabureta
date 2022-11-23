@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rabureta/static/css/main.fee767ef.css",
-    "main.js": "/rabureta/static/js/main.26e9f635.js",
+    "main.css": "/rabureta/static/css/main.9506ab86.css",
+    "main.js": "/rabureta/static/js/main.d13d4a1f.js",
     "static/js/976.6ccac490.chunk.js": "/rabureta/static/js/976.6ccac490.chunk.js",
     "index.html": "/rabureta/index.html",
-    "main.fee767ef.css.map": "/rabureta/static/css/main.fee767ef.css.map",
-    "main.26e9f635.js.map": "/rabureta/static/js/main.26e9f635.js.map",
+    "main.9506ab86.css.map": "/rabureta/static/css/main.9506ab86.css.map",
+    "main.d13d4a1f.js.map": "/rabureta/static/js/main.d13d4a1f.js.map",
     "976.6ccac490.chunk.js.map": "/rabureta/static/js/976.6ccac490.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fee767ef.css",
-    "static/js/main.26e9f635.js"
+    "static/css/main.9506ab86.css",
+    "static/js/main.d13d4a1f.js"
   ]
 }
